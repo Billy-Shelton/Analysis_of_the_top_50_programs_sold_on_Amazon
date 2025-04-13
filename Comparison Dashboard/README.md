@@ -8,3 +8,9 @@ Working within Excel, I set out to primarily use power pivot and charts with the
 
 ### Comparison Dashboard File
 You can find my dashboard here: [Amazon_Top_Sales_Analysis_Project.xlsx](https://github.com/Billy-Shelton/Analysis_of_the_top_50_programs_sold_on_Amazon/blob/main/Comparison%20Dashboard/Amazon%20Top%20Sales%20Analysis%20Project.xlsx)
+
+### Excel Skills Used
+- **Pivot Table**
+- **Charts**
+- **Power Query**
+- **Data Validation**
